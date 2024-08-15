@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Benish+Aijaz!;" />
 </h1>
 
-<h3 align="center"> I am currently pursuing a Bachelor of Technology in Information Technology at NIT Srinagar. With a focus on frontend development and artificial intelligence, I have developed a strong understanding of web technologies and AI principles. My studies and hands-on projects have equipped me with the skills to build dynamic web applications and implement AI solutions. I am dedicated to expanding my knowledge and applying my skills to innovative projects and real-world challenges. 🇨🇦</h3>
+<h3 align="center"> I am currently pursuing a Bachelor of Technology in Information Technology at NIT Srinagar. With a focus on frontend development and artificial intelligence, I have developed a strong understanding of web technologies and AI principles. My studies and hands-on projects have equipped me with the skills to build dynamic web applications and implement AI solutions. I am dedicated to expanding my knowledge and applying my skills to innovative projects and real-world challenges. </h3>
 
 <br/>
 
@@ -28,6 +28,9 @@
   <a href="https://www.linkedin.com/in/sheikh-benish-987203267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
+<div align="center"> 
+  <h3 align="center">Connect with me:</h3>
   <a href="https://sheikhbenish-portfolio.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
